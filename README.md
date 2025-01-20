@@ -102,10 +102,6 @@ Contributions are welcome! If you have any suggestions or improvements, please f
 5. Push to the branch (`git push origin feature/YourFeature`).
 6. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 Happy coding and enjoy exploring the world with your Mini REST Countries Explorer!
