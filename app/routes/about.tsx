@@ -7,7 +7,7 @@ export default function About() {
         </h1>
         <p className="text-xl text-gray-700 leading-relaxed mb-4">
           This website uses the{" "}
-          <span className="font-semibold text-indigo-600">
+          <span className="font-semibold text-blue-600">
             REST Countries API
           </span>{" "}
           to display comprehensive information about countries from around the
